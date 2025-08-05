@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Eduardo
 
-<!--
-**eduAssis/eduAssis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor web focado em PHP (Laravel) e apaixonado por tecnologia.  
+🚀 Buscando sempre evoluir e entregar soluções eficientes e elegantes.  
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+- PHP • Laravel • JavaScript • MySQL  
+- Git • GitHub • VS Code  
+- HTML • CSS • Blade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Como me encontrar
+- Email: 
+- LinkedIn: 
+- Portfólio: 
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+Se curtir algum projeto, fique à vontade para dar uma estrela ou entrar em contato.  
